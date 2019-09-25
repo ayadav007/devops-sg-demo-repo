@@ -1,1 +1,25 @@
 welcome to Git Demo
+    1  ip addrress
+    2  ip addrr
+    3  ip addr
+    4  ip address
+    5  ping google.com
+    6  apt-get update ; apt-get install git -y
+    7  git -version
+    8  git clone https://github.com/ayadav007/devops-sg-demo-repo.git
+    9  cd devops-sg-demo-repo/
+   10  ls
+   11  echo "welcome to Git Demo" > Hello_world.txt
+   12  ls
+   13  git status
+   14  git add
+   15  ls
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "hello world"
+   20  git push
+   21  history
+   22  echo "Test01" >> hello_world.txt
+   23  git add . ; git commit -m "test01_message"; git push
+   24  history >> "Hello_world.txt"
